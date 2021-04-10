@@ -1,0 +1,12 @@
+name: LCC-Converter
+title: LCC-Converter
+username:
+account: ianhoppe
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3905637
+bundleId: 4448741
+url: https://ianhoppe.shinyapps.io/LCC-Converter/
+when: 1617928847.41603
+asMultiple: FALSE
+asStatic: FALSE
